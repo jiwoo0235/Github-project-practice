@@ -1,20 +1,20 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: "[FEATURE]"
+name: 기능 제안
+about: 프로젝트에 필요한 기능을 제안합니다.
+title: "[기능 제안]"
 labels: enhancement
 assignees: ''
-
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex: I'm always frustrated when [...]
+**어떤 문제로부터 이 기능이 필요하다고 느끼셨나요?**
+(예: 사용자가 특정 기능을 사용할 때 불편함을 겪어요…)
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**원하시는 해결 방안은 무엇인가요?**
+(예: 새로운 버튼을 추가해서 바로 접근할 수 있도록 하고 싶어요.)
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**고려해본 다른 방법이 있다면 적어주세요**
+(예: 기존 기능을 수정해보려 했지만 한계가 있었어요.)
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**추가로 남기고 싶은 말이나 참고 자료가 있다면 적어주세요**
+(예: 관련 이미지, 링크 등)
+
