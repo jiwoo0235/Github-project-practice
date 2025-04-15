@@ -1,28 +1,34 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: "[BUG]"
+name: 버그 제보
+about: 버그를 제보하고 수정 요청을 남겨주세요.
+title: "[버그] "
 labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## 버그 설명
+버그에 대해 간단하게 설명해주세요.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## 재현 단계
+1. 첫 번째 단계
+2. 두 번째 단계
+3. ...
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## 예상 결과
+버그가 발생하지 않았을 때 예상한 결과를 작성해주세요.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## 실제 결과
+실제로 발생한 버그의 결과를 작성해주세요.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
+## 스크린샷
+(필요한 경우 스크린샷을 추가해주세요)
+
+## 환경
+- 운영체제: (예: Windows 10, macOS Big Sur)
+- 브라우저: (예: Chrome 89, Firefox 78)
+- 버전: (버전 번호)
+
+## 추가 정보
+기타 추가적인 정보나 제안사항이 있으면 여기에 작성해주세요.
+
